@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1048486592267",
+    "firebase_url": "https://complaintregister-fcb05.firebaseio.com",
+    "project_id": "complaintregister-fcb05",
+    "storage_bucket": "complaintregister-fcb05.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048486592267:android:8b9377747d6a2acb",
+        "android_client_info": {
+          "package_name": "com.example.complaintregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048486592267-r59fh4ogvf6p0660a6fueqp5tuls1f9f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.complaintregister",
+            "certificate_hash": "469b45f0fa3e08014fde48a298a8665e19b9b485"
+          }
+        },
+        {
+          "client_id": "1048486592267-j4522vbv7e0tmh6pp1kvbnvlk1u8v5al.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDanst7sY6px43d559KAmds0AglABMsnQ8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048486592267-j4522vbv7e0tmh6pp1kvbnvlk1u8v5al.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
